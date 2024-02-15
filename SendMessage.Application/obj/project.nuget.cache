@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOeq4DfEf6zAWrC9jl8VdnoJh1n9BYUO6bjHZzocTOSP/SevtHWsFYU7tjdirCsnnZMp7qrt8+Ae7HICCrT0NQ==",
+  "success": true,
+  "projectFilePath": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\SendMessage.Application\\SendMessage.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isxoq\\.nuget\\packages\\fakerdotnet\\1.0.7\\fakerdotnet.1.0.7.nupkg.sha512",
+    "C:\\Users\\isxoq\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\isxoq\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\isxoq\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

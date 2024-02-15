@@ -1,0 +1,14 @@
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\bin\Debug\net8.0\Hm01.exe
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\bin\Debug\net8.0\Hm01.deps.json
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\bin\Debug\net8.0\Hm01.runtimeconfig.json
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\bin\Debug\net8.0\Hm01.dll
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\bin\Debug\net8.0\Hm01.pdb
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\obj\Debug\net8.0\Hm01.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\obj\Debug\net8.0\Hm01.AssemblyInfoInputs.cache
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\obj\Debug\net8.0\Hm01.AssemblyInfo.cs
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\obj\Debug\net8.0\Hm01.csproj.CoreCompileInputs.cache
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\obj\Debug\net8.0\Hm01.dll
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\obj\Debug\net8.0\refint\Hm01.dll
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\obj\Debug\net8.0\Hm01.pdb
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\obj\Debug\net8.0\Hm01.genruntimeconfig.cache
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Hm01\obj\Debug\net8.0\ref\Hm01.dll

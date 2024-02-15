@@ -1,0 +1,7 @@
+
+Vcsharpsquid:S1144	"2Remove the unused private property 'UserMessages'.(½œí8¨Î£ÜÙ1
+]csharpsquid:S1144&"4Remove the unused private method 'EnsureDataExists'.(Â¶ü–ÿÿÿÿÿ8ú½ÊÜÙ1
+\csharpsquid:S1481("8Remove the unused local variable 'queryCreateReference'.(®²‡š8®•ïÜÙ1
+Ocsharpsquid:S1481."+Remove the unused local variable 'adapter'.(²û¾„8Â°¤ŞÙ1
+hsecrets:S6703
+"HMake sure this database password gets changed and removed from the code.(•õ¼¦8Íà¾ÜÙ1

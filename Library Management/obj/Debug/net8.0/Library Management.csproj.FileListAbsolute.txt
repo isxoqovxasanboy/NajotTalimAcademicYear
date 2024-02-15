@@ -1,0 +1,14 @@
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Library Management.exe
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Library Management.deps.json
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Library Management.runtimeconfig.json
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Library Management.dll
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Library Management.pdb
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.AssemblyInfoInputs.cache
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.AssemblyInfo.cs
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.csproj.CoreCompileInputs.cache
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.dll
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\refint\Library Management.dll
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.pdb
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.genruntimeconfig.cache
+D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\ref\Library Management.dll
