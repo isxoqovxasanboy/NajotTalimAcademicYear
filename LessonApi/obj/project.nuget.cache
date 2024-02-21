@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "565OxRHImE1dvpCQkneijkoHzZLAzyHmEn5JfrKndja5n9YEBhJVSMHAaxv0gm22t9wKSL0rE1v4cM4K+q8D1g==",
+  "dgSpecHash": "9PGc7av8R/4ojPGvglZ2YYzIHJzYY4khR/OmUBs5hi9HsSOSk34QSHss7DuwYyL9+31qaEvlkfTvTbaXpD9Wwg==",
   "success": true,
-  "projectFilePath": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\LessonApi\\LessonApi.csproj",
+  "projectFilePath": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\LessonApi\\LessonApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isxoq\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
     "C:\\Users\\isxoq\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

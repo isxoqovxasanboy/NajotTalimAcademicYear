@@ -14,6 +14,8 @@ public class CrudController : Controller
         _crudService = new CrudService();
     }
     
+    
+    
     [HttpPost]
     public async Task<IActionResult> Add(BoardGame game)
     {

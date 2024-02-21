@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\LessonApi\\LessonApi.csproj": {}
+    "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\LessonApi\\LessonApi.csproj": {}
   },
   "projects": {
-    "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\LessonApi\\LessonApi.csproj": {
+    "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\LessonApi\\LessonApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\LessonApi\\LessonApi.csproj",
+        "projectUniqueName": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\LessonApi\\LessonApi.csproj",
         "projectName": "LessonApi",
-        "projectPath": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\LessonApi\\LessonApi.csproj",
+        "projectPath": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\LessonApi\\LessonApi.csproj",
         "packagesPath": "C:\\Users\\isxoq\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\LessonApi\\obj\\",
+        "outputPath": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\LessonApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isxoq\\AppData\\Roaming\\NuGet\\NuGet.Config",

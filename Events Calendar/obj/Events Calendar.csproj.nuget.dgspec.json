@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\Events Calendar\\Events Calendar.csproj": {}
+    "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\Events Calendar\\Events Calendar.csproj": {}
   },
   "projects": {
-    "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\Events Calendar\\Events Calendar.csproj": {
+    "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\Events Calendar\\Events Calendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\Events Calendar\\Events Calendar.csproj",
+        "projectUniqueName": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\Events Calendar\\Events Calendar.csproj",
         "projectName": "Events Calendar",
-        "projectPath": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\Events Calendar\\Events Calendar.csproj",
+        "projectPath": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\Events Calendar\\Events Calendar.csproj",
         "packagesPath": "C:\\Users\\isxoq\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\Events Calendar\\obj\\",
+        "outputPath": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\Events Calendar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isxoq\\AppData\\Roaming\\NuGet\\NuGet.Config",

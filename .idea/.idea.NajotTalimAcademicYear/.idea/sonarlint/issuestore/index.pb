@@ -27,8 +27,6 @@ L
 LessonApi/WeatherForecast.cs,e\b\eb3159fdb0938842e6f05e7f717ff376c5667ce1
 C
 CRUD.Api/Program.cs,8\d\8dac3155ab2c046e5e0e70bdba247afb00b25820
-K
-CRUD.Api/WeatherForecast.cs,3\a\3a614dc73ee9d101b8accc609a97ae2a92b4c753
 V
 &CRUD.Api/Controllers/CrudController.cs,b\b\bb445a9dc9619078f1bbd1bf7a283c30bffcc511
 L
@@ -121,3 +119,45 @@ J
 Library Management/Book.cs,7\e\7ecf4c83799e03cbe8fc247a790b33b4d87fcdc0
 H
 LessonApi/LessonApi.http,c\e\ceed87e8f62ac126e2fd88466941c628c7d39710
+c
+3MarketClone.Application/Models/Entities/Category.cs,2\2\222e7e9791fd3970be0e85f0776ded5fb0634ce6
+h
+8MarketClone.Application/Models/Entities/Product_Title.cs,8\3\83ac7b0583df3716bd4855633ec28a1964f5dc72
+b
+2MarketClone.Application/Models/Entities/Product.cs,6\1\61e9e08a573abc293d432f6cde2af2329cf33173
+c
+3MarketClone.Application/Models/Entities/Supplier.cs,7\0\7016607539683d50eb96faa1fdca2c237ab714ba
+g
+7MarketClone.Application/Models/Entities/Manufacturer.cs,5\e\5ecaa586d6a81d312ae731255fa41510a2fef7d0
+g
+7MarketClone.Application/Models/Entities/OrderDetails.cs,9\6\96b6fe3fcff885d2e033858892121a90fb697adc
+`
+0MarketClone.Application/Models/Entities/Order.cs,7\e\7e81c7c3b00de4a0c89553c5c9d65ca82bc80f5e
+g
+7MarketClone.Application/Models/Entities/LocationCity.cs,b\8\b8220b6e261baf3885194b5384fb65abd06ccb68
+c
+3MarketClone.Application/Models/Entities/Location.cs,f\e\fe23854540d034ad062662f98c2cfa1767d57082
+n
+>MarketClone.Application/Models/Entities/SupermarketLocation.cs,7\f\7f7ff8c23e78b1c8455a2cf8cfa680c540c6689a
+g
+7MarketClone.Application/Models/Entities/Suppermarket.cs,e\2\e2a6ed5aef4ee551eb95221705944bb770360f2f
+f
+6MarketClone.Application/Models/Entities/ContactType.cs,a\0\a0f70bb74c498e9a4665c868f39867cfb5524f23
+i
+9MarketClone.Application/Models/Entities/PersonContacts.cs,8\1\81a49826e32ed867dd6621c003bf699a5ce79854
+a
+1MarketClone.Application/Models/Entities/Person.cs,9\7\970672d8c17e0d254f5c8e3e6333da44c7e9e07a
+c
+3MarketClone.Application/Models/Entities/Customer.cs,9\a\9a0d39a2333a43e8536da2e3c04ed7469d942659
+R
+"MarketClone.Application/Program.cs,3\9\391a6230cc0964def2ed075da7eee1701769a582
+D
+HomeTask1/Program.cs,7\d\7d42202fec8cef1bc216fea393fb26bdd9b9299e
+F
+HomeTask1/Bugalters.cs,c\1\c1abd92ed26827ad7cb1ddbe400aefcb90780cad
+D
+HomeTask1/Servise.cs,2\4\24a0a7fb22d53aa440738594b782f27730fc6c84
+P
+ HomeTask1/ProgrammingLanguage.cs,4\e\4e78d43d9222e068937d3298d63a191ec3a42f3e
+f
+6MarketClone.Application/MarketClone.Application.csproj,3\a\3a8ebfde6f522aa25dbf0e1b4444622b149cb82a

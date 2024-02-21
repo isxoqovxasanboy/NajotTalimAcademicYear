@@ -218,11 +218,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\SendMessage.Application\\SendMessage.Application.csproj",
+      "projectUniqueName": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\SendMessage.Application\\SendMessage.Application.csproj",
       "projectName": "SendMessage.Application",
-      "projectPath": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\SendMessage.Application\\SendMessage.Application.csproj",
+      "projectPath": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\SendMessage.Application\\SendMessage.Application.csproj",
       "packagesPath": "C:\\Users\\isxoq\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\SendMessage.Application\\obj\\",
+      "outputPath": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\SendMessage.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\isxoq\\AppData\\Roaming\\NuGet\\NuGet.Config",

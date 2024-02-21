@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\Hm01\\Hm01.csproj": {}
+    "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\Hm01\\Hm01.csproj": {}
   },
   "projects": {
-    "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\Hm01\\Hm01.csproj": {
+    "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\Hm01\\Hm01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\Hm01\\Hm01.csproj",
+        "projectUniqueName": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\Hm01\\Hm01.csproj",
         "projectName": "Hm01",
-        "projectPath": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\Hm01\\Hm01.csproj",
+        "projectPath": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\Hm01\\Hm01.csproj",
         "packagesPath": "C:\\Users\\isxoq\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\Hm01\\obj\\",
+        "outputPath": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\Hm01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isxoq\\AppData\\Roaming\\NuGet\\NuGet.Config",

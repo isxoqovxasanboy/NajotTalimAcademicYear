@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\CRUD.Api\\CRUD.Api.csproj": {}
+    "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\CRUD.Api\\CRUD.Api.csproj": {}
   },
   "projects": {
-    "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\CRUD.Api\\CRUD.Api.csproj": {
+    "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\CRUD.Api\\CRUD.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\CRUD.Api\\CRUD.Api.csproj",
+        "projectUniqueName": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\CRUD.Api\\CRUD.Api.csproj",
         "projectName": "CRUD.Api",
-        "projectPath": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\CRUD.Api\\CRUD.Api.csproj",
+        "projectPath": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\CRUD.Api\\CRUD.Api.csproj",
         "packagesPath": "C:\\Users\\isxoq\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\CRUD.Api\\obj\\",
+        "outputPath": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\CRUD.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isxoq\\AppData\\Roaming\\NuGet\\NuGet.Config",

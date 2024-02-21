@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ot03td/xafmism1g430I56w3OIr6Cm/s2KGw8ep2q7llzyCrnw82SsUnh9PRjw/GK2KLu4FT5+QovQaWqie/ng==",
+  "dgSpecHash": "ZT5X2ypllqqHJBfXFzRLhAskHgmAmH/8LsQz9oLp4yW9VFDihN9ePr0eTrYpNimTkp2XdZeRn3vsCwz1UKqiSw==",
   "success": true,
-  "projectFilePath": "D:\\c#Projects\\NajotTalim\\NajotTalimAcademicYear\\MongoDbLearning\\MongoDbLearning.csproj",
+  "projectFilePath": "D:\\Net_Projects\\NajotTalim\\NajotTalimAcademicYear\\MongoDbLearning\\MongoDbLearning.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isxoq\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\isxoq\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
