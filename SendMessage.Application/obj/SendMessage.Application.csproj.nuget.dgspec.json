@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[1.0.7, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-preview.1.24081.2, )"
+            },
             "Npgsql": {
               "target": "Package",
               "version": "[8.0.2, )"

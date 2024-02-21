@@ -12,3 +12,30 @@ D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net
 D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.pdb
 D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.genruntimeconfig.cache
 D:\c#Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\ref\Library Management.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Library Management.exe
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Library Management.deps.json
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Library Management.runtimeconfig.json
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Library Management.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Library Management.pdb
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.csproj.AssemblyReference.cache
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.AssemblyInfoInputs.cache
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.AssemblyInfo.cs
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.csproj.CoreCompileInputs.cache
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.sourcelink.json
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.csproj.CopyComplete
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\refint\Library Management.dll
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.pdb
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\Library Management.genruntimeconfig.cache
+D:\Net_Projects\NajotTalim\NajotTalimAcademicYear\Library Management\obj\Debug\net8.0\ref\Library Management.dll

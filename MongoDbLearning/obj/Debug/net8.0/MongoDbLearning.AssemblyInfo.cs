@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MongoDbLearning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db5b0307d51750e30147b847e0d259dc3e8e750b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1751784245e2a0be39c176ce3314303a1913cf0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MongoDbLearning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MongoDbLearning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
